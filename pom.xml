@@ -1,7 +1,7 @@
 <project>
   <parent>
     <groupId>keralafinance</groupId>
-    <artifactId>finapp</artifactId>
+    <artifactId>repo.maven.apache.org/maven2</artifactId>
     <version>1</version>
   </parent>
   <modelVersion>4.0.0</modelVersion>
