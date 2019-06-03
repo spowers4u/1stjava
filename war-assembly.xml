@@ -14,7 +14,7 @@
     </dependencySets>
     <fileSets>
         <fileSet>
-            <directory>./classes</directory>
+            <directory>target/classes</directory>
             <outputDirectory>WEB-INF/classes</outputDirectory>
             <includes>
                 <include>/**/*</include>
